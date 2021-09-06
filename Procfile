@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris_species_clf.py
+web: sh setup.sh && streamlit run myapp.py
